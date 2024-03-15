@@ -7,10 +7,56 @@
 </head>
 <h1>JapChae Dish Korean Glass Noodles</h1>
 <img src="../snapshots/japchae 5.jpeg" alt="JapChae is also known as Korean glass noodles or vermicelli noodles" style="width:500px; height:auto">
+<h3>Recipe Background</h3>
 <h5>Japchae is a noodle dish that is usually served at Korean festivities. In recent years, this dish has grown in popularity because it’s been commonly served in Korean BBQ.Japchae literally means “mixed vegetables” and because of the sweet and savory sauce, it has evolved by adding noodles to the mix and it was loved even more by everyone!</h5>
-<img src="../snapshots/japchae 2.jpeg" style="width:500px; height:auto">
+<img src="../snapshots/japchae 1.jpeg" style="width:500px; height:auto">
+<h3>Ingredients</h3>
+<ul style="list-style-type: none; padding-left: 1.5em;">
+    <li>300 grams Korean Glass Noodles or Sweet Potato Noodles or Dangmyeon</li>
+    <li>Japchae Ingredients
+      <ul>
+        <li>20 grams Shiitake Mushroom Sliced thinly</li>
+        <li>20 grams Woodear Mushroom Sliced in half</li>
+        <li>30 grams Red Bell Pepper Julienne</li>
+        <li>50 grams Onion Sliced thinly</li>
+        <li>15 grams Carrots Julienne</li>
+        <li>30 grams Spinach Blanched</li>
+        <li>70 grams Any Beef Cut Sliced thinly</li>
+        <li>Vegetable or Canola Oil For sautéing</li>
+      </ul>
+    </li>
+    <li>Japchae Sauce
+      <ul>
+        <li>1/2 tbsp Garlic</li>
+        <li>3 tbsp Soy Sauce</li>
+        <li>1 tbsp Sesame Oil</li>
+        <li>1/2 tbsp Oyster Sauce</li>
+        <li>1/2 tbsp Sesame Seeds</li>
+        <li>1/2 tbsp Sugar</li>
+        <li>Salt and Pepper To taste</li>
+      </ul>
+    </li>
+  </ul>
+  
+  <img src="../snapshots/JapChae 2.jpeg" style="width:500px; height: auto">
 <img src="../snapshots/japchae-8.jpg" style="width:500px; height:auto">
-<img src="../snapshots/JapChae 1.jpeg" style="width:500px; height: auto">
+<h3>Steps</h3>
+<ol>
+    <ol>
+        <li>Prepare your vegetables. Set aside.</li>
+        <li>Season the beef with salt and pepper. Set aside.</li>
+        <li>Combine soy sauce, sesame oil, oyster sauce, sesame seeds, and sugar. Set aside.</li>
+        <li>In a pot, boil some water. Once it’s boiling, add the noodles and cook as instructed in the packaging.</li>
+        <li>Drain the noodles and wash them with cold water. Let drain for three minutes.</li>
+        <li>In a separate pan, turn the heat to high. With a bit of oil, stir-fry the garlic and beef.</li>
+        <li>When the beef is 70% done, add the vegetables. Add the onions and carrots first and cook for a minute, then add the rest of the vegetables and saute for a couple of minutes. Season it with salt and pepper and do not overcook it!</li>
+        <li>Add the noodles and mix thoroughly, then add the sauce and mix thoroughly.</li>
+        <li>Once everything is coated with the sauce, move to a plate and garnish with sesame seeds.</li>
+        <li>Serve and enjoy! :)</li>
+      </ol>
+      
+</ol>
+
 
 <body>
     
